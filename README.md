@@ -1,6 +1,5 @@
-# Brd2_analysis
 # <span style="color:blue;">Brd2 analysis</span>
-Analysis and data from report titled 'Brd2 is dispensable for genome compartmentalization and replication timing'
+Analysis and data from the report titled 'Brd2 is dispensable for genome compartmentalization and replication timing'
 
 [Visualization](https://ay-lab.github.io/Brd2_analysis/intra_igv_pcQnm.html)
 
